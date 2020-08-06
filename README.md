@@ -1,2 +1,3 @@
 # Reviews-Sentiment
 It predicts the sentiment of the review either "Positive" or "Negative", and also predicts the #probability of that event. I used #sklearn library for making this project and I have integrated it using #django #framework . I have used #logisticregression to train 25,000 #imdb reviews and 25,000 reviews for testing. I had to lemmatize and vectorize the data before passing it to the model. Each word is a feature and this model has around 27,300 #features .
+I have uploaded the video of my project on my linked-in account https://www.linkedin.com/feed/update/urn:li:activity:6694981766312157184/
